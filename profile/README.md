@@ -81,7 +81,7 @@ Les établissements scolaires font face à des défis quotidiens :
 
 Pour toute collaboration, démonstration ou information :
 
-📧 **contact@edusync.io** *(à adapter si nécessaire)*
+📧 **contact@edusync.io**
 
 ---
 
